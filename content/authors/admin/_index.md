@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ng198002@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-    # url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-    # url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/nuwangunasekara
   - icon: brands/linkedin
@@ -65,24 +61,10 @@ education:
     institution: Auckland University of Technology
     date_start: 2008-06-01
     date_end: 2010-12-10
-    # summary: |
-    #   GPA: 3.8/4.0
-
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Management Information Systems
     institution: University College Dublin
     date_start: 2005-08-01
     date_end: 2007-12-10
-    # summary: |
-    #   GPA: 3.4/4.0
-      
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant
     company_name: Artificial Intelligence Institute, University of Waikato
@@ -90,22 +72,12 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    # summary: |2-
-    #   Responsibilities include:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Senior Software Engineer
     company_name: Endace
     company_url: 'https://www.endace.com/'
     company_logo: ''
     date_start: 2010-12-01
     date_end: 2019-08-10
-    # summary: |
-    #   Responsibilities include:
-    #   - Migrated infrastructure to a new data center
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,18 +108,12 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      # - name: Photography
-      #   description: ''
-      #   percent: 80
-      #   icon: camera
 
 languages:
   - name: English
     percent: 100
   - name: Sinhalese
     percent: 100
-  # - name: Portuguese
-  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -161,24 +127,7 @@ awards:
     icon: coursera
     summary: |
       Three and half year scholarship is funded by the Entrepreneurial Universities - Real time analytics for Big Data project at AI Institute, University of Waikato.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 # ---
 
 # ## About Me
