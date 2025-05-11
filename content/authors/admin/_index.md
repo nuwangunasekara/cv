@@ -128,7 +128,7 @@ awards:
     summary: |
       Three and half year scholarship is funded by the Entrepreneurial Universities - Real time analytics for Big Data project at AI Institute, University of Waikato.
 
-# ---
+---
 
 # ## About Me
 
