@@ -11,7 +11,7 @@ last_name: Gunasekara
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -132,4 +132,4 @@ awards:
 
 # About Me
 
-I am an AI researcher specializing in evolving data stream learning, focusing on advanced techniques like Neural Networks and Gradient Boosting. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in data streams and mitigating catastrophic forgetting in Neural Networks for online learning. I actively contribute to the open-source MOA and CapyMOA stream learning frameworks. I have also published multiple publications in reputed venues and have delivered tutorials on online learning. I bring a wealth of industry experience in participating in multiple machine learning projects and developing network capture tools. Explore my GitHub for accessible source codes.
+I'm an AI researcher specializing in evolving data stream learning, focusing on Neural Networks and Gradient Boosting. My work tackles key challenges in Online Learning, such as concept drift detection and mitigating catastrophic forgetting. I contribute to open-source frameworks like MOA and CapyMOA, have published in top venues, delivered tutorials, and bring industry experience in ML projects and network capture tool development. Explore my GitHub for open-source code.
