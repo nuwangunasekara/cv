@@ -66,12 +66,18 @@ education:
     date_start: 2005-08-01
     date_end: 2007-12-10
 work:
+  - position: Postdoctoral Fellow
+    company_name: Halmstad University
+    company_url: 'https://www.hh.se/'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
   - position: Research Assistant
     company_name: Artificial Intelligence Institute, University of Waikato
     company_url: 'https://ai.waikato.ac.nz/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-11-01
+    date_end: 2024-08-30
   - position: Senior Software Engineer
     company_name: Endace
     company_url: 'https://www.endace.com/'
