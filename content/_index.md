@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am an AI researcher specializing in evolving data stream learning, focusing on advanced techniques like Neural Networks and Gradient Boosting. My work addresses critical challenges in Online Learning, including detecting and adapting to concept drifts in data streams and mitigating catastrophic forgetting in Neural Networks for online learning. I actively contribute to the open-source MOA and CapyMOA stream learning frameworks. I have also published multiple publications in reputed venues and have delivered tutorials on online learning. I have extensive experience in the industry, having participated in multiple machine learning projects and developed network capture tools. Explore my GitHub for accessible source codes.
     design:
       columns: '1'
   - block: collection
