@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here is a selection of projects that I have worked on over the years. I enjoy contributing to open-source software.
+      text: 
       filters:
         folders:
           - project
