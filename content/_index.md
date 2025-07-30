@@ -60,12 +60,12 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: tutorials
     content:
-      title: Recent & Upcoming Talks
+      title: Tutorials
       filters:
         folders:
-          - event
+          - tutorials
     design:
       view: article-grid
       columns: 1
